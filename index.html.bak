@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link href="https://fonts.googleapis.com/css?family=Lato:100,300,400,700,900"
+      rel="stylesheet">
+    <title>Reflux HTML CSS Template</title>
+    <!--
+Reflux Templatehttps://templatemo.com/tm-531-reflux-->
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Additional CSS Files -->
+    <link rel="stylesheet" href="assets/css/fontawesome.css">
+    <link rel="stylesheet" href="assets/css/templatemo-style.css">
+    <link rel="stylesheet" href="assets/css/owl.css">
+    <link rel="stylesheet" href="assets/css/lightbox.css">
+  </head>
+  <body>
+    <div id="page-wraper">
+      <!-- Sidebar Menu -->
+      <div class="responsive-nav"> <i class="fa fa-bars" id="menu-toggle"></i>
+        <div id="menu" class="menu"> <i class="fa fa-times" id="menu-close"></i>
+          <div class="container">
+            <div class="image"> <a href="#"><img src="assets/images/author-image.jpg"
+                  alt=""></a> </div>
+            <div class="author-content">
+              <h4>Badgers Grow Lab</h4>
+              <span><img src="../templatemo_531_reflux/assets/images/Instagram.png"
+                  alt="" style="width: 145px; height: 12px;"></span> </div>
+            <nav class="main-nav" role="navigation">
+              <ul class="main-menu">
+                <li><a href="#section1">About Me</a></li>
+                <li><a href="#section2">Cultivation Basics</a></li>
+                <li><a href="#section3">My Work</a></li>
+                <li><a href="https://photobio.com/products/product/photobio-mx2-680w-100-277v-s4-spectrum"
+                    title="Phtobio MX2" target="_blank">Seeds</a></li>
+              </ul>
+            </nav>
+            <div class="social-network">
+              <ul class="soial-icons">
+              </ul>
+              <a href="https://www.seedsman.com/us-en/purple-ghost-candy-feminised-seeds-sman-pgcandy-fem?a_aid=66f1bc76519d4&amp;a_bid=55f942b3"
+                target="_top"><img src="../templatemo_531_reflux/assets/images/seedsmanlogo%20bannder.png"></a><a
+                href="https://www.seedsman.com/us-en/purple-ghost-candy-feminised-seeds-sman-pgcandy-fem?a_aid=66f1bc76519d4&amp;a_bid=55f942b3"
+                target="_top"><img src="https://seedsman.postaffiliatepro.com/accounts/default1/aang5ubmn24/55f942b3.gif"
+                  alt="Seedsman - Cannabis Super Store" title="Seedsman - Cannabis Super Store"
+                  height="50" width="320"></a><a href="https://photobio.com/products/product/photobio-mx2-680w-100-277v-s4-spectrum"
+                target="_blank"><strong><img src="../templatemo_531_reflux/assets/images/PHOTOBIO%20MX2%20%28002%29.png"></strong></a><span
+                class="whitespace-nowrap text-token-text-secondary dark:text-token-text-tertiary"><span
+                  class="whitespace-normal"></span></span> </div>
+            <div class="copyright-text">
+              <p>Copyright 2019 Reflux Design</p>
+            </div>
+          </div>
+        </div>
+      </div>
+      <section class="section about-me" data-section="section1">
+        <div class="container">
+          <div class="section-heading">
+            <h2>About Me</h2>
+            <div class="line-dec"></div>
+            <span>The content shared on Badgers Grow Lab is for educational and
+              informational purposes only. All growing tips, techniques, and
+              advice are based on personal experience and intended for use in
+              areas where cultivation is legal. I am a licensed medical cannabis
+              patient and comply with local laws. Always consult your local
+              regulations before attempting any of the methods discussed in
+              these videos. I do not promote or encourage illegal activity of
+              any kind. Please grow responsibly and within the legal limits of
+              your region.</span> </div>
+          <div class="left-image-post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="left-image"> <img src="assets/images/left-image.jpg"
+                    alt=""> </div>
+              </div>
+              <div class="col-md-6">
+                <div class="right-text">
+                  <h4>What is Medical cannabis ?</h4>
+                  Medical cannabis uses cannabis compounds like THC and CBD to
+                  treat various conditions by interacting with the body’s
+                  endocannabinoid system, which regulates pain and mood. It's
+                  commonly prescribed for <strong>chronic pain</strong> (e.g.,
+                  arthritis and neuropathy), <strong>epilepsy</strong> (to
+                  reduce seizures), <strong>multiple sclerosis</strong> (to
+                  ease muscle spasms and pain), and <strong>cancer-related
+                    symptoms</strong> (such as nausea and appetite loss from
+                  chemotherapy). Available in forms like oils and vaporizers,
+                  medical cannabis offers a more effective, natural alternative
+                  for managing symptoms where conventional treatments may fall
+                  short, improving patients' quality of life
+                  <p></p>
+                  <p></p>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="right-image-post">
+            <div class="row">
+              <div class="col-md-6">
+                <div class="left-text">
+                  <h4>Three Basic Growing Habits to follow for healthy cannabis
+                    cultivation. </h4>
+                  <p>Here are three basic growing habits to always follow for
+                    healthy cannabis cultivation:</p>
+                  <ol>
+                    <li>
+                      <p><strong>Consistent Watering</strong>: Keep a regular
+                        watering schedule and ensure the plants receive the
+                        right amount of water. Overwatering or underwatering can
+                        stress the plants, so it's important to check soil
+                        moisture and adjust accordingly.</p>
+                    </li>
+                    <li>
+                      <p><strong>Proper Lighting</strong>: Cannabis plants need
+                        the right amount and type of light, especially during
+                        flowering. Maintain appropriate light schedules (18/6
+                        for veg, 12/12 for flower) and ensure the lights are the
+                        correct distance from the plants to avoid light burn or
+                        stretching.</p>
+                    </li>
+                    <li>
+                      <p><strong>Nutrient Balance</strong>: Feed your plants
+                        with a balanced nutrient mix based on their growth
+                        stage. Use the right nutrients in the right
+                        quantities—too much can cause nutrient burn, and too
+                        little can result in deficiencies. Keep a close eye on
+                        your plants for signs of imbalance.</p>
+                    </li>
+                  </ol>
+                  <p></p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="right-image"> <img src="assets/images/right-image.jpg"
+                    alt=""> </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section my-services" data-section="section2">
+        <div class="container">
+          <div class="section-heading">
+            <h2>Primary Cultivation Basics.</h2>
+            <div class="line-dec"></div>
+            Cannabis has three basic needs: light, water and nutrients, and
+            proper airflow with temperature control. Light is crucial for
+            photosynthesis and bud development, directly impacting the plant’s
+            growth and yield. Water and nutrients provide the essential building
+            blocks for the plant’s structure, metabolism, and overall health.
+            Lastly, proper airflow and temperature control ensure a stable
+            growing environment, preventing mold, pests, and stress on the
+            plants. Balancing these factors is key to producing strong, healthy
+            plants and maximizing both yield and potency. </div>
+          <div class="row">
+            <div class="col-md-6">
+              <div class="service-item">
+                <div class="first-service-icon service-icon"></div>
+                <h4>Lighting</h4>
+                <p>Proper lighting is essential for cannabis growth, directly
+                  influencing photosynthesis, plant health, and yield. The
+                  Photobio MX2 stands out with its optimal light spectrum,
+                  including UV, promoting robust vegetative growth and dense
+                  flower production. Its superior intensity ensures healthy
+                  plants and maximized yields, making it a top choice for
+                  growers seeking high-quality results.</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="service-item">
+                <div class="second-service-icon service-icon"></div>
+                <h4>Nutrients</h4>
+                <p>Start with Lotus Nutrients for a beginner-friendly approach
+                  to cultivation, adjusting doses based on the plant's growth
+                  stage. Begin with light feedings and gradually increase as
+                  needed for balanced, healthy growth. Monitor closely for signs
+                  of deficiencies or nutrient burn, while maintaining proper pH
+                  levels to optimize nutrient absorption without stressing your
+                  plants.</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="service-item">
+                <div class="third-service-icon service-icon"></div>
+                <h4>Air / Temp Control<br>
+                </h4>
+                <p>Proper airflow is crucial for cannabis growth, preventing
+                  mold, pests, and mildew. A variable fan and carbon filter
+                  regulate airflow, manage odors, and control temperature and
+                  humidity. This promotes even CO2 distribution, enhancing plant
+                  health and yield quality. Auxiliary fans increase air movement
+                  and strengthen stems for optimal growth.</p>
+              </div>
+            </div>
+            <div class="col-md-6">
+              <div class="service-item">
+                <div class="fourth-service-icon service-icon"></div>
+                <br>
+                <h4>Seeds</h4>
+                <div class="group/conversation-turn relative flex w-full min-w-0 flex-col agent-turn">
+                  <div class="flex-col gap-1 md:gap-3">
+                    <div class="flex max-w-full flex-col flex-grow">
+                      <div data-message-author-role="assistant" data-message-id="2d6ecfb0-bd77-46b4-be62-7dfa269c0eb6"
+                        dir="auto" class="min-h-8 text-message flex w-full flex-col items-end gap-2 whitespace-normal break-words [.text-message+&amp;]:mt-5"
+                        data-message-model-slug="gpt-4o">
+                        <div class="flex w-full flex-col gap-1 empty:hidden first:pt-[3px]">
+                          <div class="markdown prose w-full break-words dark:prose-invert dark">
+                            <p>Starting cultivation with the best genetics is
+                              crucial for achieving healthy, high-yield plants.
+                              Seedsman’s premium seeds offer proven quality,
+                              reliable results, unmatched consistency, and
+                              superior genetics, giving growers a strong
+                              foundation for success. For top-tier strains,
+                              check the links below and start your grow with
+                              Seedsman for optimal outcomes.</p>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <p></p>
+                <p></p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section my-work" data-section="section3">
+        <div class="container">
+          <div class="section-heading">
+            <h2>My Work</h2>
+            <div class="line-dec"></div>
+            The following is a collection of various cannabis strains that I’ve
+            had the opportunity to cultivate over the years. Each strain brings
+            its own unique characteristics, such as differences in growth
+            patterns, flavor profiles, and effects. Through my experience with
+            these different strains, I’ve gained valuable insight into how each
+            one responds to various growing techniques, environments, and
+            nutrient regimens. This has allowed me to refine my cultivation
+            methods and tailor my approach to maximize yields and quality, while
+            also exploring the diversity that cannabis genetics have to offer. </div>
+          <div class="row">
+            <div class="isotope-wrapper">
+              <form class="isotope-toolbar"> <label><input data-type="*" checked="checked"
+                    name="isotope-filter" type="radio"> <span>all</span></label>
+                <label><input data-type="people" name="isotope-filter" type="radio">
+                  <span>plants</span></label> <label><input data-type="nature"
+                    name="isotope-filter" type="radio"> <span>SCROGS</span></label>
+                <label><input data-type="animals" name="isotope-filter" type="radio">
+                  <span>Flowers</span></label> </form>
+              <div class="isotope-box">
+                <div class="isotope-item" data-type="nature">
+                  <figure class="snip1321"> <img src="assets/images/portfolio-01.jpg"
+                      alt="sq-sample26"> <figcaption> <a href="assets/images/portfolio-01.jpg"
+                        data-lightbox="image-1" data-title="Caption"><i class="fa fa-search"></i></a>
+                      <h4>First Title</h4>
+                      <span>free to use our template</span> </figcaption> </figure>
+                </div>
+                <div class="isotope-item" data-type="people">
+                  <figure class="snip1321"> <img src="assets/images/portfolio-02.jpg"
+                      alt="sq-sample26"> <figcaption> <a href="assets/images/portfolio-02.jpg"
+                        data-lightbox="image-1" data-title="Caption"><i class="fa fa-search"></i></a>
+                      <h4>Second Title</h4>
+                      <span>please tell your friends</span> </figcaption> </figure>
+                </div>
+                <div class="isotope-item" data-type="animals">
+                  <figure class="snip1321"> <img src="assets/images/portfolio-03.jpg"
+                      alt="sq-sample26"> <figcaption> <a href="assets/images/portfolio-03.jpg"
+                        data-lightbox="image-1" data-title="Caption"><i class="fa fa-search"></i></a>
+                      <h4>Item Third</h4>
+                      <span>customize anything</span> </figcaption> </figure>
+                </div>
+                <div class="isotope-item" data-type="people">
+                  <figure class="snip1321"> <img src="assets/images/portfolio-04.jpg"
+                      alt="sq-sample26"> <figcaption> <a href="assets/images/portfolio-04.jpg"
+                        data-lightbox="image-1" data-title="Caption"><i class="fa fa-search"></i></a>
+                      <h4>Item Fourth</h4>
+                      <span>Re-distribution not allowed</span> </figcaption> </figure>
+                </div>
+                <div class="isotope-item" data-type="nature">
+                  <figure class="snip1321"> <img src="assets/images/portfolio-05.jpg"
+                      alt="sq-sample26"> <figcaption> <a href="assets/images/portfolio-05.jpg"
+                        data-lightbox="image-1" data-title="Caption"><i class="fa fa-search"></i></a>
+                      <h4>Fifth Awesome</h4>
+                      <span>Ut sollicitudin risus</span> </figcaption> </figure>
+                </div>
+                <div class="isotope-item" data-type="animals">
+                  <figure class="snip1321"> <img src="assets/images/portfolio-06.jpg"
+                      alt="sq-sample26"> <figcaption> <a href="assets/images/portfolio-06.jpg"
+                        data-lightbox="image-1" data-title="Caption"><i class="fa fa-search"></i></a>
+                      <h4>Awesome Sixth</h4>
+                      <span>Donec eget massa ante</span> </figcaption> </figure>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="section contact-me" data-section="section4">
+        <div class="container">
+          <div class="section-heading">
+            <h2><strong>🌱 </strong>Recommended Seeds<strong>🌱</strong></h2>
+            <img src="../templatemo_531_reflux/assets/images/seedsmanlogo.png" alt=""
+              style="width: 193px; height: 83px;"><br>
+            <p>As a long-time customer of Seedsman, I can confidently say their
+              seeds are nothing short of amazing! The quality and performance
+              have consistently exceeded my expectations. One of the reasons I
+              keep coming back? The unbeatable germination rate—almost every
+              seed I’ve planted has sprouted, a testament to the incredible
+              genetics they offer.</p>
+            <p>From beginners to pros, Seedsman has a wide range of strains to
+              suit every grower's needs, and I’ve had fantastic results with
+              several of them. Here are some of my standout favorites:</p>
+            <ol style="text-align: left;">
+              <ol>
+                <li><a href="https://www.seedsman.com/us-en/alaskan-purple-feminised-seeds-sman-alpurp-fem?a_aid=66f1bc76519d4?a_aid=66f1bc76519d4"
+                    target="_blank"><strong>Alaskan Purple</strong> – Robust,
+                    flavorful, and a joy to grow.</a></li>
+                <li><a href="https://www.seedsman.com/us-en/skunk-1-feminised-seeds-5-g13l-skun-fem-5?a_aid=66f1bc76519d4"
+                    target="_blank"><strong>Seedsman Original Skunk</strong> –
+                    Classic strain with resin-packed buds.</a></li>
+                <li><a href="%3Cli%3E%3Ca%20href=%22https://www.seedsman.com/en/purple-ghost-candy-feminised-seeds?a_aid=66f1bc76519d4%22%20target=%22_blank%22%20rel=%22noopener%22%3E%3Cstrong%3EPurple%20Ghost%20Candy%3C/strong%3E%3C/a%3E%3C/li%3E"
+                    target="_blank"><strong>Purple Ghost Candy</strong> – <span
+                      style="color: #33cc00;">Currently growing</span>, and it’s
+                    already a showstopper!</a></li>
+                <li><a href="%3Cli%3E%3Ca%20href=%22https://www.seedsman.com/en/purple-ghost-candy-feminised-seeds?a_aid=66f1bc76519d4%22%20target=%22_blank%22%20rel=%22noopener%22%3E%3Cstrong%3EPurple%20Ghost%20Candy%3C/strong%3E%3C/a%3E%3C/li%3E"
+                    target="_blank"><strong>Double Grape Auto</strong> and <strong>White
+                      Widow Fem</strong> – Both delivered vigorous growth.</a></li>
+                <li><a href="https://www.seedsman.com/us-en/sour-diesel-feminised-seeds-rqs-sd-fem?a_aid=66f1bc76519d4?a_aid=66f1bc76519d4"
+                    target="_blank"><strong>Sour Diesel</strong> and <strong>Blueberry
+                      Fem</strong> – Highly aromatic and potent, with amazing
+                    yields.</a></li>
+              </ol>
+            </ol>
+            <p>What sets Seedsman apart is their dedication to <strong>genetic
+                diversity</strong>, offering seeds that excel in <strong>potency,
+                yield, and flavor</strong>. Whether you’re after medicinal
+              strains or high-yield powerhouses, Seedsman has you covered.</p>
+            <p>&nbsp;<strong>Want to grow your own top-tier cannabis?</strong> </p>
+            <p>Now’s the perfect time to try Seedsman for yourself! <strong>Use
+                code SAULGOOD10</strong> at checkout for 10% off your next
+              order. Don’t wait—start your next grow with Seedsman today and
+              watch your garden thrive! </p>
+            <p><br>
+            </p>
+            <p></p>
+            <div style="text-align: left;"><strong></strong><a href="https://www.seedsman.com/us-en/skunk-1-feminised-seeds-5-g13l-skun-fem-5?a_aid=66f1bc76519d4"
+                target="_blank"><strong>Seedsman Original Skunk&nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+                  &nbsp;<img src="../templatemo_531_reflux/assets/images/seedsman%20skunk.jpg"
+                    style="width: 198px; height: 216px;"> &nbsp;
+                  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; <br>
+                </strong></a></div>
+            <div style="text-align: left;"><a href="https://www.seedsman.com/en/purple-ghost-candy-feminised-seeds?a_aid=66f1bc76519d4?a_aid=66f1bc76519d4"
+                target="_blank"><strong>Purple Ghost Candy &nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; <img src="../templatemo_531_reflux/assets/images/ppgc.jpg"
+                    style="width: 211px; height: 184px;">&nbsp;
+                  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;
+                  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <br>
+                </strong></a></div>
+            <div style="text-align: left;"><a href="https://www.seedsman.com/us-en/double-grape-auto-feminised-seeds-meph-dgr-auto-fem?a_aid=66f1bc76519d4"
+                target="_blank"><strong>Double Grape Auto&nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;</strong></a><a href="https://www.seedsman.com/us-en/double-grape-auto-feminised-seeds-meph-dgr-auto-fem?a_aid=66f1bc76519d4"
+                target="_blank"><strong> &nbsp; <img src="../templatemo_531_reflux/assets/images/dblgrape.jpg"
+                    alt="Personal Grow Picture" title="Double Grape" style="width: 212px; height: 212px;">&nbsp;
+                  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+                  &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</strong></a><br>
+              <a href="https://www.seedsman.com/en/white-widow-feminised-seeds?a_aid=66f1bc76519d4?a_aid=66f1bc76519d4"
+                target="_blank"><strong>White Widow Fem</strong></a><span style="color: #007bff;">&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+                &nbsp; &nbsp;&nbsp;&nbsp; &nbsp; <img src="../templatemo_531_reflux/assets/images/wwidow.png"
+                  style="width: 210px; height: 210px;">&nbsp; &nbsp;
+                &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+                &nbsp;&nbsp;&nbsp; </span><br>
+              <a href="https://www.seedsman.com/us-en/sour-diesel-feminised-seeds-rqs-sd-fem?a_aid=66f1bc76519d4?a_aid=66f1bc76519d4"
+                target="_blank"><strong>Sour Diesel&nbsp;&nbsp;&nbsp; &nbsp;
+                  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+                  &nbsp; &nbsp;&nbsp;<img src="../templatemo_531_reflux/assets/images/ww.png"
+                    style="width: 216px; height: 229px;">&nbsp;
+                  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</strong></a><br>
+              <a href="https://www.seedsman.com/en/blueberry-feminised-seeds?a_aid=66f1bc76519d4?a_aid=66f1bc76519d4"
+                target="_blank"><strong>Seedsman Blueberry&nbsp;&nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+                  &nbsp;&nbsp; &nbsp;&nbsp; <img src="../templatemo_531_reflux/assets/images/blue.jpg"
+                    style="width: 215px; height: 215px;">&nbsp;&nbsp;&nbsp;
+                  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</strong></a><br>
+              <a href="https://www.seedsman.com/en/white-widow-feminised-seeds?a_aid=66f1bc76519d4?a_aid=66f1bc76519d4"
+                target="_blank"><strong>Seedsman White Widow Fem&nbsp;<img src="../templatemo_531_reflux/assets/images/wwidow.png"
+                    style="width: 217px; height: 219px;">&nbsp;
+                  &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+                  &nbsp;&nbsp;</strong></a></div>
+            <dl>
+              <dt> <br>
+              </dt>
+            </dl>
+            <div class="container" style="text-align: left;"><br>
+            </div>
+            <div style="text-align: left;">&nbsp; </div>
+            <div style="text-align: left;"><br>
+            </div>
+            <div style="text-align: left;"><br>
+              <strong></strong><a rel="noopener" target="_new"><span></span><span></span><span></span><span></span><span></span><span></span></a><span
+                class="whitespace-nowrap text-token-text-secondary dark:text-token-text-tertiary"><span
+                  class="whitespace-normal"></span></span> </div>
+            <p></p>
+          </div>
+          <div class="row">
+            <div class="right-content">
+              <div class="container">
+                <form id="contact" action="" method="post">
+                  <div class="row">
+                    <div class="col-md-6"> </div>
+                  </div>
+                </form>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+    <!-- Scripts -->
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="assets/js/isotope.min.js"></script>
+    <script src="assets/js/owl-carousel.js"></script>
+    <script src="assets/js/lightbox.js"></script>
+    <script src="assets/js/custom.js"></script>
+    <script>
+      //according to loftblog tut
+      $(".main-menu li:first").addClass("active");
+
+      var showSection = function showSection(section, isAnimate) {
+        var direction = section.replace(/#/, ""),
+          reqSection = $(".section").filter(
+            '[data-section="' + direction + '"]'
+          ),
+          reqSectionPos = reqSection.offset().top - 0;
+
+        if (isAnimate) {
+          $("body, html").animate(
+            {
+              scrollTop: reqSectionPos
+            },
+            800
+          );
+        } else {
+          $("body, html").scrollTop(reqSectionPos);
+        }
+      };
+
+      var checkSection = function checkSection() {
+        $(".section").each(function() {
+          var $this = $(this),
+            topEdge = $this.offset().top - 80,
+            bottomEdge = topEdge + $this.height(),
+            wScroll = $(window).scrollTop();
+          if (topEdge < wScroll && bottomEdge > wScroll) {
+            var currentId = $this.data("section"),
+              reqLink = $("a").filter("[href*=\\#" + currentId + "]");
+            reqLink
+              .closest("li")
+              .addClass("active")
+              .siblings()
+              .removeClass("active");
+          }
+        });
+      };
+
+      $(".main-menu").on("click", "a", function(e) {
+        e.preventDefault();
+        showSection($(this).attr("href"), true);
+      });
+
+      $(window).scroll(function() {
+        checkSection();
+      });
+    </script>
+  </body>
+</html>
